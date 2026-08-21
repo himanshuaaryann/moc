@@ -45,7 +45,7 @@ export default function Story() {
         <Reveal delay={0.15}>
           <div>
             <img
-              src="/ChatGPT Image Aug 20, 2026, 01_28_39 PM.png"
+              src="/WhatsApp Image 2026-08-21 at 2.27.01 PM.png"
               alt="Farmer holding freshly harvested radishes in a field"
               className="h-[420px] w-full rounded-[20px] object-cover sm:h-[520px]"
               loading="lazy"
