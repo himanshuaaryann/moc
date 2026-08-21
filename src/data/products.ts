@@ -122,18 +122,6 @@ export const PRODUCTS: Product[] = [
     featured: true,
   },
   {
-    id: "fruit-pomegranate",
-    category: "fruit",
-    name: "Pomegranates",
-    description: "Ruby-red pomegranates, naturally grown on the farm.",
-    image:
-      "https://images.pexels.com/photos/34010008/pexels-photo-34010008.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=800&w=1200",
-    status: "SEASONAL",
-    seasonInfo: "Autumn & Winter",
-    unit: "kg",
-    featured: true,
-  },
-  {
     id: "fruit-grapes",
     category: "fruit",
     name: "Grapes",
