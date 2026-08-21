@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
 import { waLink, waMessages } from "../lib/whatsapp";
 
-const VIDEO_SRC = "/262900_medium.mp4";
+const VIDEO_SRC = "/262900_mediumvideo.mp4";
 
 export default function Hero() {
   const videoRef = useRef<HTMLVideoElement | null>(null);
